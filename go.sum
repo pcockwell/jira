@@ -8,6 +8,8 @@ github.com/cheekybits/genny v1.0.0 h1:uGGa4nei+j20rOSeDeP5Of12XVm7TGUd4dJA9RDitf
 github.com/cheekybits/genny v1.0.0/go.mod h1:+tQajlRqAUrPI7DOSpB0XAqZYtQakVtB7wXkRAgjxjQ=
 github.com/coryb/figtree v0.0.0-20180728224503-071d1ef303df h1:cS4Z9Nlv8J4UqFbLp9ltZypgenm2p3Jeg0yqLfpH2pc=
 github.com/coryb/figtree v0.0.0-20180728224503-071d1ef303df/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
+github.com/coryb/figtree v1.0.1-0.20180929203318-3b3639c1610a h1:9BQsc+1Q3KtGWDVw9aFxjIcn+aHrNF6cZcgrUvb70Qw=
+github.com/coryb/figtree v1.0.1-0.20180929203318-3b3639c1610a/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
 github.com/coryb/kingpeon v0.0.0-20180107011214-9a669f143f2e h1:tGmk9Tuyz7fKuBq/d3nFJvVWRvc48MEBKQC4uYV3wb0=
 github.com/coryb/kingpeon v0.0.0-20180107011214-9a669f143f2e/go.mod h1:gBc0uEH6swbOMoR7VkVuW7w5fGvZu/KHeSgxBR4Ta7Q=
 github.com/coryb/oreo v0.0.0-20180804211640-3e1b88fc08f1 h1:Hh0qSvmvoAGL8VxvEoUv9UuUf9XlKcQtSxAMTz1kqfE=
