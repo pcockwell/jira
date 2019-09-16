@@ -7,7 +7,7 @@ require (
 	github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc // indirect
 	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf // indirect
 	github.com/cheekybits/genny v1.0.0 // indirect
-	github.com/coryb/figtree v1.0.1-0.20180917220500-8bd141acbbb4
+	github.com/coryb/figtree v1.0.1-0.20180927180240-a42ef93e015c
 	github.com/coryb/kingpeon v0.0.0-20180107011214-9a669f143f2e
 	github.com/coryb/oreo v0.0.0-20180804211640-3e1b88fc08f1
 	github.com/davecgh/go-spew v1.1.0 // indirect
