@@ -10,6 +10,8 @@ github.com/coryb/figtree v0.0.0-20180728224503-071d1ef303df h1:cS4Z9Nlv8J4UqFbLp
 github.com/coryb/figtree v0.0.0-20180728224503-071d1ef303df/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
 github.com/coryb/figtree v1.0.1-0.20180917212622-04f61959858a h1:4UDytKZvq67d0Cqqrq8elfzXZBxTLmRY6TcCp7a9Sb8=
 github.com/coryb/figtree v1.0.1-0.20180917212622-04f61959858a/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
+github.com/coryb/figtree v1.0.1-0.20180917220500-8bd141acbbb4 h1:baJEmwiSvI02bAqcAIloGbcDXkDHi87x+xHtcG9Awws=
+github.com/coryb/figtree v1.0.1-0.20180917220500-8bd141acbbb4/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
 github.com/coryb/figtree v1.0.1-0.20180929203318-3b3639c1610a h1:9BQsc+1Q3KtGWDVw9aFxjIcn+aHrNF6cZcgrUvb70Qw=
 github.com/coryb/figtree v1.0.1-0.20180929203318-3b3639c1610a/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
 github.com/coryb/kingpeon v0.0.0-20180107011214-9a669f143f2e h1:tGmk9Tuyz7fKuBq/d3nFJvVWRvc48MEBKQC4uYV3wb0=
